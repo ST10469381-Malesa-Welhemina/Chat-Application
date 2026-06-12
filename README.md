@@ -1,4 +1,5 @@
-CHATAPP PART 3 – STORED 
+CHATAPP PART 3 
+
 What's new in Part 3:
 - New menu option 4: Stored Messages
 - Submenu with 6 features:
